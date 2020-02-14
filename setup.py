@@ -11,7 +11,7 @@ setup(
     description="Practice Package for LS course",
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md file for long desc
-    license="MIT",
+    license="MIT License",
     url="https://github.com/mjplacroix/Lambda_School", # TODO
     keywords="practice project",
     packages=find_packages() # ["my_lambdata"]
